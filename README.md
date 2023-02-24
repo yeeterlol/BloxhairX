@@ -32,7 +32,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2023 [yeeter :3](https://github.com/yeeterlol).<br />
-This project is [GPL--3.0](https://raw.githubusercontent.com/yeeterlol/BloxhairX/main/LICENSE) licensed.
+This project is [GPL-3.0](https://raw.githubusercontent.com/yeeterlol/BloxhairX/main/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
