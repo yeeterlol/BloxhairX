@@ -7,6 +7,7 @@
 </p>
 
 > Automatically apply crosshairs to **any** Roblox game
+
 > 10 ⭐ and I will release a more simpler GUI version (gotta make sure people actually want it before i have to go thru the pain of tkinter since im stupid)
 
 ## Setup
