@@ -11,7 +11,7 @@
 > 10 ⭐ and I will release a more simpler GUI version (gotta make sure people actually want it before i have to go thru the pain of tkinter since im stupid)
 
 ## Setup
-*Apply the cursor you want to install and replace the crosshair.png file!
+*Apply the cursor you want to install and replace the crosshair.png file!*
 
 ## Usage
 *If you got Python installed, you can use this tool! No packages required!*
