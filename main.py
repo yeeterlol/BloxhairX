@@ -17,7 +17,17 @@ def main():
     global img, filepath, crosshairpath, texturespath, ver
     print("Bloxhair X")
     # Credits to https://github.com/lolmanurfunny/Roblox-Launcher-minus-the-app fir the code
-    # Most of the code is skidded from them since I'm a fucking lazy ass retard
+    """
+    ellies apology :c
+    hai gays :3, its me from 2023. i have improved better as a person and i used the r slur in this 
+    comment. even though i am autistic myself and i have improved as a person. 
+    i can't take back my actions so im sorry for all the disabled & neurodivergents that were offended for what i said.
+    
+    ellie >.<
+    
+    """
+    
+    # Most of the code is skidded from them since I'm a fucking lazy ass [r slur]
     # If lolmanurfunny wants code to be removed, I'll rewrite my own shitty solution 
 
     if exists(filepath):
